@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:11.652823
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:52
 #+TITLE: 安樂集
 #+PROPERTY: CBETA_ID T47n1958
 #+PROPERTY: ID KR6p0037
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1958
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6p0037_T_000-0004a>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6p0037_T_002-0014b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 下安樂集卷下¶
+安樂集卷下¶
 ¶
 釋道綽撰¶
 
@@ -534,8 +533,7 @@
 離國人民，遭五種惡病：一者、眼赤如血；二¶
 者、兩耳出膿；三者、鼻中流血；四者、舌噤無¶
 聲；五者、所食之物化為麁澁；六、識閉塞猶¶
-如醉人。有五夜叉：或名訖拏迦羅，面黑¶
-如墨而有五眼，狗牙上出吸人精氣，良醫¶
+如醉人。有五夜叉：或名訖拏迦羅，面黑如墨而有五眼，狗牙上出吸人精氣，良醫¶
 耆婆盡其道術，所不能救。時有月蓋長者
 <pb:KR6p0037_T_002-0019b>¶
 為首，部領病人，皆來歸佛，叩頭求哀。爾時¶
